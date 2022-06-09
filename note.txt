@@ -1,0 +1,8 @@
+dotnet ef dbcontext scaffold  "DataSource=.\Database\TodoApi.db" Microsoft.EntityFrameworkCore.Sqlite --output-dir Models 
+
+package
+- Microsoft.EntityFrameworkCore
+- Microsoft.AspNetCore.Mvc.NewtonsoftJson
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.Sqlite
+- Microsoft.EntityFrameworkCore.Tools
