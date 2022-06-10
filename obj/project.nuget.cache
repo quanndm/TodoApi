@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qu0qv3hytb26GTC3xqer8wU8O835/gzoBJNAm//Qqh+LG9EhirkX93cNxc8p+8AoHwqJn0zWmvh5n1nFcXr7Wg==",
+  "dgSpecHash": "JFyJfk1OzthzlLdP6Ast65Oyegy+9dwXNoI5ia4LcqqZBnjsghxYq9lut0yu77ENdaM1+4YvJp/Q+PZme7/EYg==",
   "success": true,
-  "projectFilePath": "D:\\lab\\learn_aspnet\\api\\lab1\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "D:\\lab\\learn_aspnet\\api\\lab\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0I156\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\0I156\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",

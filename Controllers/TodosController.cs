@@ -18,7 +18,7 @@ namespace TodoApi.Controllers{
         }
         [HttpGet]
         public IActionResult GetAllTodos(){
-            return Ok(_context.TblTodos.Include(x=>x.Status).ToList());
+            return Ok(_context.TblTodos.Include("Status").ToList());
         }
         [HttpGet("{id}")]
         public IActionResult GetTodo([FromRoute]long? id){

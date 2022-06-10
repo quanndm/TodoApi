@@ -1433,11 +1433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lab\\learn_aspnet\\api\\lab1\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\lab\\learn_aspnet\\api\\lab\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\lab\\learn_aspnet\\api\\lab1\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\lab\\learn_aspnet\\api\\lab\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\0I156\\.nuget\\packages\\",
-      "outputPath": "D:\\lab\\learn_aspnet\\api\\lab1\\TodoApi\\obj\\",
+      "outputPath": "D:\\lab\\learn_aspnet\\api\\lab\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\0I156\\AppData\\Roaming\\NuGet\\NuGet.Config",
